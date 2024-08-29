@@ -7,5 +7,8 @@ public class mundo {
 		System.out.println("¡Soy María José");
 		//Modificado por Alejandra
 		System.out.println("Hola, Soy Aleja");
+		//Modificado por Paris
+		System.out.println("Hola, Soy Paris");
+				
 	}
 }
